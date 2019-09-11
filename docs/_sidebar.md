@@ -1,3 +1,18 @@
 - 目录
 
 - [第一章 导论](chapter1/chapter1.md)
+- [线性规划导论](#comming-soon)
+- [线性规划的灵敏度分析与最优解的解释](#comming-soon)
+- [线性规划在市场营销、财务和运作管理领域的应用](#comming-soon)
+- [高级线性规划应用](#comming-soon)
+- [分配余网络模型](#comming-soon)
+- [整数线性规划](#comming-soon)
+- [非线性最优化模型](#comming-soon)
+- [项目安排：计划评审法/关键路径法](#comming-soon)
+- [库存模型](#comming-soon)
+- [等候线模型](#comming-soon)
+- [模拟](#comming-soon)
+- [决策分析](#comming-soon)
+- [多准则决策](#comming-soon)
+- [时间序列分析与预测](#comming-soon)
+- [马尔可夫过程](#comming-soon)
